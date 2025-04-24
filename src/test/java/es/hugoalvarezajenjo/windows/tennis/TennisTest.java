@@ -1,9 +1,9 @@
-package es.hugoalvarezajenjo.windows;
+package es.hugoalvarezajenjo.windows.tennis;
 
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
-public class AppTest {
+public class TennisTest {
     @Test
     void shouldReturnLoveOnStart() {
         TennisGame game = new TennisGame();

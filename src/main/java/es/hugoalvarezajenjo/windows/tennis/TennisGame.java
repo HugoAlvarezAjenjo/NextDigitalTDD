@@ -1,4 +1,4 @@
-package es.hugoalvarezajenjo.windows;
+package es.hugoalvarezajenjo.windows.tennis;
 
 import java.util.Map;
 
